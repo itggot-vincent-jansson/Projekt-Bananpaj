@@ -4,6 +4,15 @@ Det här projektet går ut på att skapa en responsiv hemsida med enkelt funktio
 Sidan ska utvecklas enligt **mobile first**. Välj upplösning för en telefon ni kan simulera i chrome's inspector.
 Använd flex-box för att bygga upp strukturen.
 
+Följ instruktionerna i rubrikerna i ordning nedan.
+
+
+### Github ###
+
+Forka detta projekt till ditt eget konto och klona ner det på datorn.
+Lägg in din template i mappen och gör en första commit.
+Commita varje gång ni lagt till något och fått det att fungera.
+Synca minst i slutet på varje lektion (helst flera gånger varje lektion).
 
 ### Skiss ###
 
