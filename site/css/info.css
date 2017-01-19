@@ -5,16 +5,12 @@ body{
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-image: url(../img/banwall.jpg);
+  background-image: url(../img/wall2.jpg);
   background-size: cover;
 }
 
 header{
 
-}
-
-aside p{
-  background-color: gainsboro;
 }
 
 h1{
@@ -48,46 +44,22 @@ text-shadow:2px 2px gainsboro;
 margin-top: -40px;
 }
 
-aside{
-height: 1300px;
-width: 150px;
-background-color: gainsboro;
-margin-left: -150px;
-}
-
-footer{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
-
-img{
-  height: 200px;
-  width: 400px;
-  margin-top: -25px;
-}
 
 p{
   font-size: 20px;
-  opacity: 1;
 }
 h3{
-  font-size: 69px;
+  font-size: 40px;
 }
 
 @media all and (min-device-width: 850px) {
-  aside{
-    visibility: hidden;
-    height: 200px;
-  }
+
   div{
     height: 940px;
     width: 700px;
   }
-  img{
-    height: 300px;
-    width: 600px;
-    margin-top: 40px;
-  }
+body{
+  background-image: url(../img/wall1.jpg);
+  background-size: cover;
+}
 }
